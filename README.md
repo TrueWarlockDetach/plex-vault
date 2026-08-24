@@ -27,4 +27,4 @@ Project page: https://plex-vault.softyx.xyz
 
 ## Legal
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.     
+> Provided for educational and utility purposes only. Use at your own discretion.      
